@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post One",
+      "body": "This is post one."
+    },
+    {
+      "id": 2,
+      "title": "Post Two",
+      "body": "This is post two."
+    },
+    {
+      "id": 228.86015712070608,
+      "title": "Post Three",
+      "body": "This is third post."
+    },
+    {
+      "id": 542.9019630403391,
+      "title": "Post Four",
+      "body": "This is 4th post."
+    },
+    {
+      "id": 169.3996840153955,
+      "title": "Post Five",
+      "body": "This is post five."
+    },
+    {
+      "id": 952.4394100964292,
+      "title": "Table",
+      "body": "Table is made of wood."
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Raman"
+    },
+    {
+      "id": 1,
+      "name": "Raman"
+    }
+  ]
+}
