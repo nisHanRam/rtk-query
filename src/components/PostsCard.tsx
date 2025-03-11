@@ -14,3 +14,5 @@ const PostsCard = ({ posts }: { posts: Post[] }) => {
 };
 
 export default PostsCard;
+
+// Key attribute can be given to React.Fragment but not to its shorthand
